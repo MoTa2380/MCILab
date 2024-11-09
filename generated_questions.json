@@ -1,0 +1,496 @@
+{
+  "questions": [
+    {
+      "question": "والیبال توسط چه کسی و در کدام سال ابداع شد؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "رابطهٔ بین قوانین والیبال و استانداردسازی آن در سال‌های مختلف چگونه بوده است؟",
+      "question_format": "Conceptual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "به چه دلایلی والیبال در کشورهای آسیایی به سرعت محبوب شد؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چگونه تغییرات قوانین والیبال از سال ۱۹۹۹ تا کنون بر نحوهٔ بازی تأثیر گذاشته‌اند؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "امتیازدهی در مسابقات والیبال چگونه کار می‌کند و چه تفاوتی بین ست‌های اول و پنجم وجود دارد؟",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "در یک مسابقه والیبال، چه فرآیندی برای تعیین برنده وجود دارد؟",
+      "question_format": "Sequence Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "شرح دهید که چرا بازی والیبال به عنوان یکی از محبوب‌ترین ورزش‌ها در المپیک شناخته می‌شود.",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "والیبال ساحلی چه تفاوت‌هایی با والیبال داخل سالنی دارد؟",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "تاریخچهٔ بازی والیبال را به اختصار توضیح دهید.",
+      "question_format": "Definition Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "تأثیر بازی والیبال بر فرهنگ ورزشی جوانان چیست؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+
+    {
+      "question": "والیبال چه تعدادی بازیکن دارد در هر تیم؟",
+      "question_format": "Short Answer Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "در چه سالی بازی والیبال برای اولین بار در بازی‌های المپیک تابستانی برگزار شد؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "والیبال در کدام کشور ابداع شد و توسط چه کسی؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "تفاوت میان والیبال داخل سالن و والیبال ساحلی چیست؟",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "مراحل اصلی برای اجرای یک سرویس موفق در والیبال را بیان کنید.",
+      "question_format": "Sequence Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "چگونه تأسیس فدراسیون بین‌المللی والیبال بر گسترش این ورزش تأثیر گذاشت؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "تاریخچه تغییرات قوانین والیبال در قرن بیستم را توصیف کنید.",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "در مسابقات والیبال، چگونه امتیازگیری انجام می‌شود و آیا قوانینی برای داشتن وقفه وجود دارد؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چه عواملی موجب افزایش محبوبیت والیبال در سطح جهانی شده است؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+
+    {
+      "question": "ژیمناستیک هنری چیست و شامل چه رشته‌هایی است؟",
+      "question_format": "Definition Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "تاریخچه ژیمناستیک و ریشه‌های آن به کجا برمی‌گردد؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "تفاوت بین ژیمناستیک هنری و ژیمناستیک موزون چیست؟",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "چگونه حرکات ژیمناستیک می‌توانند بر روی سلامت جسمانی فرد تأثیر بگذارند؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چه عواملی موجب آسیب‌دیدگی در ژیمناستیک می‌شوند؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چگونه می‌توان در رشته ژیمناستیک به مقام‌های بالا دست یافت؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چه روش‌هایی برای ارزیابی و امتیازدهی در مسابقات ژیمناستیک استفاده می‌شود؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "چند رویداد ورزشی در مسابقات المپیک به ژیمناستیک اختصاص دارد و شامل چه رشته‌هایی است؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "چه تکنیک‌هایی برای بهبود عملکرد در حرکات زمینی ژیمناستیک وجود دارد؟",
+      "question_format": "Conceptual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "تأثیر نادیا کومانچی بر تاریخچه ژیمناستیک چگونه بوده است؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "نقش مربی در موفقیت ورزشکاران ژیمناستیک چیست؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "در هر رشته‌ای از ژیمناستیک، چه معیارهایی برای ارزشیابی وجود دارد؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "چگونه یک ژیمناست می‌تواند بر روی میله موازنه تعادل خود را حفظ کند؟",
+      "question_format": "Scenario-Based Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "فایده‌های تمرین ژیمناستیک در زندگی روزمره چیست؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "حرکات پارالل مردان بر چه اصولی بنا شده‌اند و چگونه امتیازدهی می‌شوند؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "بسکتبال چه نوع ورزشی است و هدف آن چیست؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "چگونه می‌توانیم یک توپ بسکتبال را به طور دقیق پرتاب کنیم؟",
+      "question_format": "Conceptual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "تفاوت بین گارد رأس و شوتینگ گارد چیست؟",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "اگر تیمی در زمان حمله توپ را به مدت بیش از 24 ثانیه در اختیار داشته باشد، چه اتفاقی می‌افتد؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "چرا قوانین بسکتبال برای جلوگیری از خشونت در بازی ایجاد شدند؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "تاریخچه اولیه بسکتبال چگونه آغاز شد؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "چه عناصری برای موفقیت در بسکتبال حیاتی هستند؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "نام سه نوع اشتباه رایج در بسکتبال را ذکر کنید. ",
+      "question_format": "Short Answer Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "چه تجهیزاتی برای بازی بسکتبال نیاز است؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "در مسابقات بسکتبال، چگونه تیم‌ها امتیاز می‌گیرند؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "اگر یک بازیکن در حال حرکت با توپ نتواند دقیقاً با توپ دریبل بزند، چه نوع خطایی مرتکب شده است؟",
+      "question_format": "Scenario-Based Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "مراحل و الزامات بازی بسکتبال را به ترتیب توضیح دهید.",
+      "question_format": "Sequence Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چگونه می‌توان در یک مسابقه بسکتبال بهترین عملکرد را ارائه داد؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "تأثیر تمرینات منظم بر عملکرد بازیکنان بسکتبال چیست؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    }
+  ]
+}
+
+
+
+``json
+{
+  "questions": [
+    {
+      "question": "بسکتبال برای اولین بار توسط چه کسی ابداع شد و در کدام سال؟",
+      "question_format": "Short Answer Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "قوانین اصلی بازی بسکتبال شامل چه مواردی هستند؟",
+      "question_format": "Conceptual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "چگونه نتایج یک مسابقه بسکتبال به امتیازهای تیم‌ها در جدول تعلق می‌گیرد؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "به چه دلیل توپ بسکتبال باید در حالت دریبل به ارتفاع شانهٔ فرد نرسد؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "تأثیر بسکتبال خیابانی بر توسعه مهارت‌های بازیکنان چیست؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "مقایسه‌ای بین پست‌های گارد و سنتر در بسکتبال انجام دهید.",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "تعریف شوت سه امتیازی در بسکتبال چیست و چه شرایطی دارد؟",
+      "question_format": "Definition Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "تاریخچه بسکتبال در ایران به چه شکل است و چه نقاط عطفی دارد؟",
+      "question_format": "Scenario-Based Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "قوانین مربوط به پرتاب آزاد در بسکتبال چیست و چه زمانی اجرا می‌شوند؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "فرآیند امتیازدهی در بازی بسکتبال چگونه است و چه عواملی بر آن تأثیر می‌گذارد؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    }
+  ]
+}
+
+
+
+
+
+```json
+{
+  "questions": [
+    {
+      "question": "قانون ۲۴ ثانیه در بسکتبال چیست و چگونه عمل می‌کند؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "تفاوت بین قانون ۲۴ ثانیه و قانون ۸ ثانیه در بسکتبال چیست؟",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "چرا قانون نیمه (برگشت توپ به زمین دفاعی) در بسکتبال وجود دارد و چه نتایجی دارد؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چگونه می‌توان شوت مؤثر در بسکتبال داشت؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "آیا تفاوت عمده‌ای بین بازی بسکتبال خیابانی و بسکتبال حرفه‌ای وجود دارد؟",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "قوانین گارد رأس در بسکتبال چه ویژگی‌هایی دارد و چه وظایفی بر عهده دارد؟",
+      "question_format": "Definition Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چگونه می‌توان تعادل بین حمله و دفاع را در تیم بسکتبال برقرار کرد؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "تاثیر نوع دفاع در عملکرد تیم بسکتبال چیست؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "قوانین اولیه بازی مینی بسکتبال چیست؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "چگونه بازیکن می‌تواند از تکنیک ریباند برای بهبود امتیازدهی بهره‌برداری کند؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "تاریخچه ورود بسکتبال به ایران به چه شکلی بوده است؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "چگونه تکنیک شوت سه‌گام می‌تواند در موقعیت‌های خاص مورد استفاده قرار گیرد؟",
+      "question_format": "Scenario-Based Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    }
+  ]
+}
+```
+
+
+
+
+```json
+{
+  "questions": [
+    {
+      "question": "بسکتبال چه نوع ورزشی است و چند نفر در هر تیم بازی می‌کنند؟",
+      "question_format": "Short Answer Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "چه عواملی بر نتیجه یک بازی بسکتبال تأثیرگذار هستند؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "تاثیر ارتفاع سبد در اجرای تکنیک‌های پرتاب توپ بسکتبال چیست؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چگونه می‌توان تکنیک‌های تیمی را در بسکتبال بهبود داد؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "تاریخچه بسکتبال و پیدایش آن چگونه بوده است؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "کدام تکنیک‌های دفاعی در بسکتبال می‌توانند به جلوگیری از امتیازگیری تیم حریف کمک کنند؟",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "آیا شرایط زمین بازی در یک مسابقه بسکتبال می‌تواند بر عملکرد بازیکنان تأثیر بگذارد، و چگونه؟",
+      "question_format": "Scenario-Based Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    }
+  ]
+}

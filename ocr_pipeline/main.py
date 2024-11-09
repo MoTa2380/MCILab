@@ -80,8 +80,9 @@ def process_ceph_directory(bucket_name, prefix, output_directory):
 
 if __name__ == "__main__":
     
-    bucket_name = "llm-dataset-backup"
-    prefix = "datasets/llm-training/non-text/irandoc"
-    output_directory = "ocr_pipeline/output_json"
+    # bucket_name = "llm-dataset-backup"
+    # prefix = "datasets/llm-training/non-text/irandoc"
+    # output_directory = "ocr_pipeline/output_json"
 
-    process_ceph_directory(bucket_name, prefix, output_directory)
+    # process_ceph_directory(bucket_name, prefix, output_directory)
+    

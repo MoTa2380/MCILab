@@ -1,0 +1,137 @@
+{
+  "questions": [
+    {
+      "question": "مسابقات جام جهانی فوتبال هر چند سال یک‌بار برگزار می‌شود؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "کدام بازیکن بیشترین گل‌ها را در تاریخ لیگ برتر فوتبال انگلیس به ثمر رسانده است؟",
+      "question_format": "Factual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "اصول اساسی تکنیک‌های تنفس در شنا چیست؟",
+      "question_format": "Conceptual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "تفاوت بین دفاع منطقه‌ای و دفاع نفر به نفر در بسکتبال چیست؟",
+      "question_format": "Conceptual Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چگونه تمرینات بدنسازی می‌تواند عملکرد یک فوتبالیست را بهبود بخشد؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "تأثیر روانشناسی ورزشی بر عملکرد ورزشکاران حرفه‌ای چگونه است؟",
+      "question_format": "Analytical Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "نقش مربی در تیم‌های ورزشی چیست و چگونه بر عملکرد تیم تأثیر می‌گذارد؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "تأثیر میزبانی مسابقات ورزشی بین‌المللی بر اقتصاد کشور چیست؟",
+      "question_format": "Open-Ended Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "اگر یک بازیکن بسکتبال در حین شوت زدن خطا شود، چه گزینه‌هایی پیش روی تیم حریف است؟",
+      "question_format": "Scenario-Based Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+
+    {
+      "question": "اگر یک دونده در مسابقه ماراتن احساس کمبود آب کند، چه اقداماتی باید انجام دهد؟",
+      "question_format": "Scenario-Based Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "تفاوت‌های کلیدی بین تنیس روی میز و تنیس میدانی چیست؟",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "مقایسه کنید تأثیرات تمرینات هوازی و بی‌هوازی بر سلامت قلب و عروق.",
+      "question_format": "Comparison Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "اصطلاح «گرند اسلم» در تنیس به چه معناست؟",
+      "question_format": "Definition Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "در فوتبال، «کارت زرد» به چه معناست و چه زمانی به بازیکن داده می‌شود؟",
+      "question_format": "Definition Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "چه عواملی می‌توانند منجر به مصدومیت‌های رایج در ورزش دو و میدانی شوند؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "چگونه تغییرات آب و هوایی می‌تواند بر برگزاری مسابقات ورزشی در فضای باز تأثیر بگذارد؟",
+      "question_format": "Cause and Effect Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "مراحل انجام یک سرویس موفق در تنیس را بیان کنید.",
+      "question_format": "Sequence Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Intermediate"
+    },
+    {
+      "question": "مراحل انجام یک حرکت اسنچ در وزنه‌برداری را به ترتیب شرح دهید.",
+      "question_format": "Sequence Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "نام سه رشته ورزشی که در بازی‌های المپیک زمستانی برگزار می‌شود را ذکر کنید.",
+      "question_format": "Short Answer Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "کدام کشور بیشترین قهرمانی‌ها را در جام جهانی فوتبال دارد؟",
+      "question_format": "Short Answer Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Beginner"
+    },
+    {
+      "question": "نقش فناوری در پیشرفت تمرینات ورزشی و تجزیه و تحلیل عملکرد ورزشکاران را بررسی کنید.",
+      "question_format": "Long Answer/Essay Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    },
+    {
+      "question": "بررسی کنید چگونه رسانه‌های اجتماعی فرهنگ طرفداری در ورزش را تغییر داده‌اند.",
+      "question_format": "Long Answer/Essay Question",
+      "question_domain": "Sports",
+      "question_difficulty": "Advanced"
+    }
+  ]
+}
